@@ -1,0 +1,17 @@
+Sangat buruk :
+Series1 = -0.143 * x + 3.571
+
+Buruk :
+series1 = 0.123 * x + 2.25
+series2 = -0.167 * x + 8.7
+
+Baik :
+Series1 = 0.05 * x - 2
+Series2 = 0 * x + 1
+Series3 = -0.167 * x + 13.5
+
+Sangat baik :
+Series1 = 0.091 * x - 6.818
+Series2 = 0 * x + 1
+
+Link graphic = https://www.desmos.com/calculator/pjp18dxl43
